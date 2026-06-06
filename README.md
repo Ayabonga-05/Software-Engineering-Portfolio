@@ -1,4 +1,4 @@
-# 💻 Software Engineering Portfolio
+# Software Engineering Portfolio
 
 **Ayabonga Mthimde**
 
@@ -8,7 +8,7 @@ This repository contains my software engineering projects — built to develop r
 
 ---
 
-## 📁 Projects
+## Projects
 
 | # | Project | Description | Key Skills |
 |---|---------|-------------|------------|
@@ -18,7 +18,7 @@ This repository contains my software engineering projects — built to develop r
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - **Language:** Python 3
 - **Platform:** Google Colab (run in browser — no install needed)
@@ -26,7 +26,7 @@ This repository contains my software engineering projects — built to develop r
 
 ---
 
-## ▶️ How to Run in Google Colab
+## How to Run in Google Colab
 
 1. Go to [colab.research.google.com](https://colab.research.google.com)
 2. Click **File → Open notebook → GitHub**
@@ -35,7 +35,7 @@ This repository contains my software engineering projects — built to develop r
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Certificate | Issuer | Date |
 |---|---|---|
@@ -47,7 +47,7 @@ This repository contains my software engineering projects — built to develop r
 
 ---
 
-## 📌 About Me
+## About Me
 
 I'm a self-directed learner and aspiring software engineer. During my gap year I've been building projects, earning certifications, and working toward a career in tech.
 
