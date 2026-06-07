@@ -13,8 +13,10 @@ This repository contains my software engineering projects — built to develop r
 | # | Project | Description | Key Skills |
 |---|---------|-------------|------------|
 | 01 | [Unit Converter](./projects/01-unit-converter/) | Converts km/miles, °C/°F, kg/lbs | Functions, input, f-strings |
+| 02 | [Grade Calculator](./projects/02-grade-calculator/) | Calculates student averages + letter grades | Lists, validation, zip() |
 
 *More projects being added regularly.*
+
 
 ---
 
